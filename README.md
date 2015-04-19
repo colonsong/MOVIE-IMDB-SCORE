@@ -7,7 +7,7 @@ MOVIE-IMDB-SCORE
 xampp
 
 ### Usage
-1. 將目錄移至htdocs/
+1. git colon或解壓縮至移至htdocs/ 把資料夾取成好聽的名稱movie
 2. 打上網址 http://localhost/movie/ 就OK了
 
 3. imdb.php的正規可以自己修正
