@@ -7,10 +7,11 @@ MOVIE-IMDB-SCORE
 xampp
 
 ### Usage
-將目錄移至htdocs/
-打上網址 http://localhost/movie/ 就OK了
-imdb.php的正規可以自己修正
-index.php的遞迴深度也可以自己改
+1. 將目錄移至htdocs/
+2. 打上網址 http://localhost/movie/ 就OK了
+
+3. imdb.php的正規可以自己修正
+4. index.php的遞迴深度也可以自己改
 
 ### 運作圖片
 ![Image text](https://github.com/colonsong/images/blob/master/imdb-score.PNG)
